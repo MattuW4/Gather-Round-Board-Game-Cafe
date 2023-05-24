@@ -13,4 +13,18 @@
 body {
     font-family: Nunito, sans-serif;
     font-weight: 400;
+    color: #d9d9d9;
+    background-color: #1a1a1a;
+}
+
+/* Navigation & Logo Style */
+
+#nav-style {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#logo-style {
+    float: left;
+    font-size: 280%;
 }
