@@ -16,6 +16,7 @@ h2 {
 p {
     font-size: 20px;
     line-height:40px;
+    text-align: center;
 }
 
 /* structural css */
@@ -28,7 +29,7 @@ p {
 
 .section-style {
     margin: auto;
-    width: 60%;
+    width: 80%;
     border: 3px solid #73AD21;
     padding: 10px;
 }
@@ -75,6 +76,18 @@ li {
 #nav-style a {
     text-decoration: none;
     color: inherit;
+}
+
+#nav-style a:hover {
+    background-color: #d9d9d9;
+    color: #1a1a1a;    
+}
+
+#logo-style a:hover {
+    background-color: #8B008B;
+    color: #1a1a1a;
+    border-radius: 30%;
+    
 }
 
 /* hero image and text*/
