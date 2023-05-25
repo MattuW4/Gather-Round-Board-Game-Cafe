@@ -249,6 +249,7 @@ footer p {
     background-color: #d9d9d9;
     color: #1a1a1a;
     font: Nunito, sans-serif;
+    cursor: pointer;
 }
 
 #subcribe-button-style:focus {
