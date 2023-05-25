@@ -263,15 +263,19 @@ img {
     max-width: 300px;
     height: 300px;
     border-radius: 50%;
+    margin: auto;
 }
 
 #library-images {
-    column-count: 2;
+    column-count: 3;
     text-align: center;
+    max-width: 100%;
+    margin: auto;
 }
 
 #library-images>p {
     text-align: center;
     text-transform: uppercase;
+
 
 }
