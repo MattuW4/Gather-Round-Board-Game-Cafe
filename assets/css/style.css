@@ -138,11 +138,38 @@ li {
     color: #d9d9d9;
     background-color: rgb(139, 0, 139, 0.6);
     text-decoration: none;
-
-
 }
 
 #button-style:hover {
     background-color: #d9d9d9;
     color: #1a1a1a;
+}
+
+/* style opening times table */
+
+table {
+    width: 100%;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.th-style {
+    border-bottom: solid rgb(139, 0, 139, 0.6);
+}
+
+tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+tr,
+th,
+td {
+    text-align: center;
+}
+
+th,
+td {
+    border: none;
+    padding: 5px;
 }
