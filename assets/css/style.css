@@ -94,7 +94,7 @@ li {
 
 #hero-container {
     height: 600px;
-    width: 100%;
+    max-width: 100%;
     overflow: hidden;
     margin: auto;
 }
@@ -120,7 +120,6 @@ li {
 /* about us button */
 
 #form-section-style {
-
     margin-left: auto;
     margin-right: auto;
     text-align: center;
