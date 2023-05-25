@@ -199,7 +199,7 @@ td {
     color: #1a1a1a;
 }
 
-/* footer styling */
+/* footer styling for email subscription, address and social media icons */
 
 footer {
     height: 150px;
@@ -242,4 +242,14 @@ footer p {
     margin: 25px;
     line-height: 35px;
     text-align: right;
+}
+
+#subcribe-button-style {
+    background-color: #d9d9d9;
+    color: #1a1a1a;
+    font: Nunito, sans-serif;
+}
+
+#subcribe-button-style:focus {
+    color: rgb(139, 0, 139, 0.6);
 }
