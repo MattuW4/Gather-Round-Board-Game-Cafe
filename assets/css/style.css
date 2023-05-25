@@ -173,3 +173,9 @@ td {
     border: none;
     padding: 5px;
 }
+
+/* style google map feature */
+
+#map-style {
+    width: auto;
+}
