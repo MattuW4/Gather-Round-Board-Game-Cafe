@@ -19,6 +19,7 @@ p {
     text-align: justify;
 }
 
+
 /* structural css */
 
 * {
@@ -182,9 +183,7 @@ td {
 
 }
 
-#location-p-style {
-    text-align: center;
-}
+
 
 #sunny-link-style {
 
