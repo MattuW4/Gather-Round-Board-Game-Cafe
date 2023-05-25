@@ -193,3 +193,32 @@ td {
     background-color: #d9d9d9;
     color: #1a1a1a;
 }
+
+/* footer styling */
+
+footer {
+    height: 150px;
+    font: Nunito, sans-serif;
+    color: #d9d9d9;
+    text-align: center;
+
+}
+
+#social-media-style i {
+    letter-spacing: 2px;
+    color: #d9d9d9;
+    margin: 1%;
+    padding: 1%;
+
+    font-size: 180%;
+
+}
+
+#social-media-style i:hover {
+    background-color: #d9d9d9;
+    color: #1a1a1a;
+    padding: none;
+    margin: none;
+    border-radius: 50%;
+    border: 1px;
+}
