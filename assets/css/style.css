@@ -174,8 +174,23 @@ td {
     padding: 5px;
 }
 
-/* style google map feature */
+/* style google map feature and hover link */
 
 #map-style {
     width: auto;
+}
+
+#location-p-style {
+    text-align: center;
+}
+
+#sunny-link-style {
+    text-decoration: none;
+    color: #d9d9d9;
+    font: Nunito, sans-serif;
+}
+
+#sunny-link-style:hover {
+    background-color: #d9d9d9;
+    color: #1a1a1a;
 }
