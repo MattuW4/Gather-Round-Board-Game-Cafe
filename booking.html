@@ -53,7 +53,47 @@
                 space back for walk ins.
             </p>
 
-            <form action="https://formdump.codeinstitute.net"></form>
+            <form action="https://formdump.codeinstitute.net" method="post">
+                <div>
+                    <label for="fname">First name:</label>
+                    <br>
+                    <input type="text" id="fname" name="fname" required>
+                    <br>
+                    <label for="lname">Last name:</label>
+                    <br>
+                    <input type="text" id="lname" name="lname" required>
+                    <br>
+                    <label for="email" id="email">Email:</label>
+                    <br>
+                    <input type="email" id="email" name="email" required>
+                    <br>
+                    <label for="partynumber">How many gamers will be in your party?</label>
+                    <input list="partynumber">
+                    <datalist id="partynumber" <option value="0">
+                        <option value="1">
+                        <option value="2">
+                        <option value="3">
+                        <option value="4">
+                        <option value="5">
+                        <option value="6">
+                        <option value="6+ (plese let us know in the comments below)">
+                    </datalist>
+                    <br>
+                    <p>Will you be joining us to game, for food & drink or both?</p>
+                    <label for="gaming">Gaming</label>
+                    <input type="radio" name="gaming" id="gaming" required>
+                    <label for="food/drink">Food/drink</label>
+                    <input type="radio" name="food/drink" id="food/drink" required>
+                    <label for="both">Both</label>
+                    <input type="radio" name="both" id="both" required>
+                    <br>
+                    <label for="additional" id="additional">Tell us any additional requirements:</label>
+                    <br>
+                    <textarea name="additional" id="additional" cols="30" rows="10"></textarea>
+                    <br>
+                    <input type="submit">
+                </div>
+            </form>
 
         </section>
 
