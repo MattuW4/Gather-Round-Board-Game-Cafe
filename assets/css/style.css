@@ -36,7 +36,7 @@ h3 {
 .section-style {
     margin: auto;
     width: 80%;
-    border: 4px solid #8B008B;
+    /*border: 4px solid #8B008B;*/
     padding: 10px;
     clear: both;
 }
