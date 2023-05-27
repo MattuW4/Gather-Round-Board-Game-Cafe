@@ -24,6 +24,7 @@ p {
 h3 {
     font-size: 15px;
     color: #d9d9d9;
+    text-transform: uppercase;
 }
 
 div>label {
@@ -132,7 +133,7 @@ li {
     background-color: rgba(139, 0, 139, 0.3);
 }
 
-/* About us button */
+/* About us button & form button */
 
 #form-section-style {
     margin-left: auto;
@@ -147,12 +148,12 @@ li {
 #button-style {
     padding: 10px 30px;
     list-style-type: none;
+    border-radius: 2px;
     font-size: 25px;
     font: Nunito, sans-serif;
     text-transform: uppercase;
     color: #d9d9d9;
     background-color: rgb(139, 0, 139, 0.6);
-    text-decoration: none;
     cursor: pointer;
 }
 
@@ -255,9 +256,18 @@ footer p {
 }
 
 #subcribe-button-style {
-    background-color: #d9d9d9;
-    color: #1a1a1a;
+    color: #d9d9d9;
+
+    font: inherit;
+    cursor: pointer;
+    padding: 5px 15px;
+    list-style-type: none;
+    border-radius: 2px;
+    font-size: 20px;
     font: Nunito, sans-serif;
+    text-transform: uppercase;
+
+    background-color: rgb(139, 0, 139, 0.6);
     cursor: pointer;
 }
 
@@ -300,13 +310,14 @@ img {
     background-attachment: fixed;
 }
 
-#booking-form-style {
-    margin: 80px;
-
+form {
+    padding: 20px;
+    border: solid 2px rgb(139, 0, 139, 0.6);
+    margin: 33px;
 }
 
-form {
-    border: rgb(139, 0, 139, 0.6);
+form h2 {
+    text-align: center;
 }
 
 input,
@@ -316,13 +327,21 @@ textarea {
     font-size: 1rem;
     margin-top: 5px;
     margin-bottom: 15px;
+    border-radius: 2px;
 }
 
 .radio-button-style {
     margin: 0px 20px;
+}
 
-
-
+.form-button-style {
+    text-transform: uppercase;
+    padding: 10px 30px;
+    font-size: 25px;
+    font: inherit;
+    color: #d9d9d9;
+    background-color: rgb(139, 0, 139, 0.6);
+    cursor: pointer;
 }
 
 /* Events video background and style*/
