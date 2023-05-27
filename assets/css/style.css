@@ -302,6 +302,22 @@ img {
     margin: 80px;
 }
 
+input,
+textarea {
+    padding: 5px 10px;
+    font-family: inherit;
+    font-size: 1rem;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.radio-button-style {
+    margin: 0px 20px;
+
+
+
+}
+
 /* Events video background and style*/
 
 #video-background-style {
@@ -349,3 +365,4 @@ img {
             margin-left: 2px;
             margin-right: 21px;
         }
+    }
