@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
-/* fonts */
+/* Fonts */
 
 h1 {
     text-transform: uppercase;
@@ -29,7 +29,7 @@ div>label {
     letter-spacing: 1px;
 }
 
-/* structural css */
+/* Structural css */
 
 * {
     margin: 0;
@@ -39,10 +39,9 @@ div>label {
 
 .section-style {
     margin: auto;
-    margin-top: 75px;
+    margin-top: 110px;
     margin-bottom: 75px;
     width: 80%;
-    /*border: 4px solid #8B008B;*/
     padding: 10px;
     clear: both;
 }
@@ -54,7 +53,7 @@ body {
     background-color: #1a1a1a;
 }
 
-/* navigation & logo style */
+/* Navigation & logo style */
 
 #logo-style {
     float: left;
@@ -103,7 +102,7 @@ li {
 
 }
 
-/* hero image and text*/
+/* Hero image and text*/
 
 #hero-container {
     height: 600px;
@@ -131,7 +130,7 @@ li {
     background-color: rgba(139, 0, 139, 0.3);
 }
 
-/* about us button */
+/* About us button */
 
 #form-section-style {
     margin-left: auto;
@@ -160,7 +159,7 @@ li {
     color: #1a1a1a;
 }
 
-/* style opening times table */
+/* Style opening times table */
 
 table {
     width: 100%;
@@ -189,7 +188,7 @@ td {
     padding: 5px;
 }
 
-/* style google map feature and hover link */
+/* Style google map feature and hover link */
 
 #map-style {
     width: 100%;
@@ -208,7 +207,7 @@ td {
     color: #1a1a1a;
 }
 
-/* footer styling for email subscription, address and social media icons */
+/* Footer styling for email subscription, address and social media icons */
 
 footer {
     height: 150px;
@@ -264,7 +263,7 @@ footer p {
     color: rgb(139, 0, 139, 0.6);
 }
 
-/* style for images in game library */
+/* Style for images in game library */
 
 img {
     max-width: 300px;
@@ -278,6 +277,7 @@ img {
     text-align: center;
     max-width: 100%;
     margin: auto;
+    position: relative;
 }
 
 #library-images>p {
@@ -287,7 +287,7 @@ img {
 
 }
 
-/*booking form style*/
+/* Booking form style */
 
 #booking-form-background {
     height: 600px;
@@ -300,4 +300,49 @@ img {
 
 #booking-form-style {
     margin: 80px;
+}
+
+/* Events video background and style*/
+
+#video-background-style {
+    position: relative;
+    height: 100vh;
+    text-align: center;
+    max-width: 100%;
+    margin: auto;
+}
+
+/*.event-text-style {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    letter-spacing: 2px;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgba(139, 0, 139, 0.3);
+}*/
+
+/* Media queries */
+
+/* For larger to medium screen sizes from 1200px wide and down */
+@media screen and (max-width: 1200px) {}
+
+#library-images {
+    column-count: 2;
+    text-align: center;
+    max-width: 100%;
+    margin: auto;
+    position: relative;
+}
+
+/* For medium to smaller screen sizes from 768px wide and down */
+@media screen and (max-width: 768px) {
+    #library-images {
+        column-count: 1;
+        text-align: center;
+        max-width: 100%;
+        margin: auto;
+        position: relative;
+    }
 }
