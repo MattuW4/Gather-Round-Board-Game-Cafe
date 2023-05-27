@@ -326,23 +326,26 @@ img {
 /* Media queries */
 
 /* For larger to medium screen sizes from 1200px wide and down */
-@media screen and (max-width: 1200px) {}
+@media screen and (max-width: 1200px) {
 
-#library-images {
-    column-count: 2;
-    text-align: center;
-    max-width: 100%;
-    margin: auto;
-    position: relative;
-}
-
-/* For medium to smaller screen sizes from 768px wide and down */
-@media screen and (max-width: 768px) {
     #library-images {
-        column-count: 1;
-        text-align: center;
-        max-width: 100%;
-        margin: auto;
-        position: relative;
+        column-count: 2;
+
     }
-}
+
+    /* For medium to smaller screen sizes from 768px wide and down */
+    @media screen and (max-width: 768px) {
+        #library-images {
+            column-count: 1;
+        }
+
+        .home-mobile-scale-style {
+            display: none;
+            padding: none;
+        }
+
+        #nav-style li {
+            background-color: rgb(139, 0, 139, 0.6);
+            margin-left: 2px;
+            margin-right: 21px;
+        }
