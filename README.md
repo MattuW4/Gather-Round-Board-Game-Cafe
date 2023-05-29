@@ -99,4 +99,15 @@ Consistent colours of white, blakc and purple were employed to make the site mor
 
 ![Navigationbar](documentation/wireframe-booking.png)
 
+## Technology employed
 
+### Development languages
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/HTML5)
+
+### Libraries, frameworks and programs 
+- [Font Awesome](https://fontawesome.com/): this was used to access icons for design purposes.
+- [Google Fonts:](https://fonts.google.com/): Nurito font was downloaded and imported to be applied across the project for styling purposes.
+- [Code Anywhere](https://codeanywhere.com/): this was used for version control via the terminal to commit to Code Anywhere and Push to GitHub as the repository.
+- [GIt hub](https://github.com/): this was used as a repository for projects that were commited from Code Anywhere.
+- 
