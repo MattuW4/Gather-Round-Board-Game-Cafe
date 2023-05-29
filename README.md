@@ -23,8 +23,6 @@ Gather Round is a fictional website for a fictional boardgame cafe business base
 
 ## Existing site features
 
-The site has been designed to work through the anticipated ranking of need and desires of users from first time visitors to regular users, recognising needs and wants differ.
-
 - F01 Navigation bar
 
 The navigation bar is consistent across all pages, being easy to recognise, find and use. It has a logo to the left that takes the user to the homepage and a simple menu, game library and booking link to the right. The latter have been developed to be responsive for smaller devices with the home page tabe disappearing to accommodate a balanced display.
@@ -63,8 +61,42 @@ This page provides an overview of some games that the cafe offers. The images ar
 
 The hero image here has been chosen to evoke the social experience that would excite the user and encourage them to book  making an emotional connection. The form has been developed and is a destination from acros the site by internal links. The form requires the user to enter information in all sections but also provides the option to reset at any point. This form is responsively designed to scale down to smaller devices. To accompany the booking form and increase likelihood of a user committing to a longer period of time at the cafe the simple food and drinks menu is below which is also responsively designed. Whilst this information is important it is prioritised lowest in terms of feature prominence because it is anticipated that users would want higher ranking information in the first instance i.e. opening times, locaction, booking options, games and events. 
 
-![Navigationbar](documentation/f08-games.png)
+![Navigationbar](documentation/f10-booking-hero.png)
 
-![Navigationbar](documentation/f09-events.png)
+![Navigationbar](documentation/f11-booking-form.png)
+
+![Navigationbar](documentation/f12-menu-table.png)
+
+## User story interaction with features
+
+The site has been designed to work through the anticipated ranking of need and desires of users from first time visitors to regular users, recognising needs and wants differ. The design and priority of features is intended to provide the information that users would require to make a connection to the brand and experience of the cafe e.g. imagery that evokes emotion is used prominently to draw in new users and for existing to continue to identify as a collective but this is not laid out to obscure access to higher ranking information around location, opening times etc. or the ability to book. The flow through the site is intended to bring new and developing users through to the booking page whilst still providing intuitive access to recurrent user needs around events or the food or drink menu.
+
+## Features for future consideration and development
+
+- It could be explored to develop an online e-commerce/shop element of the site to develop the offer and build the prominence of the cafe virtually.
+- Sections for more UX reflection could easily be included e.g. testimonials, pictures, suggestions box. This would develop the community sense and emotional connection to the brand and likelihood of a user committing and remaining so.
+
+## Design
+
+### Imagery & Icons
+
+As stated, the images and iconography are styled and employed to connect with users who are existing gamers (e.g. dice 10 for home icon as this is associated with board gamers) or to make orientation quicker and so facilitate access and engagement e.g. small images next to navigation tabs. The hero images were selected to evoke emotional responses from users, providing a sense of connection and belonging for regular visitors or, something that is relatable and accessible for new.
+
+### Colours and scheme
+
+Consistent colours of white, blakc and purple were employed to make the site more accessible visually and aid with elements being prominent. These colours would also relate to the branding of the cafe itself. The darker shades of black/purple were selected to create a complimentary, warm abbience.
+
+## Wireframe sketches
+
+### Landing page
+
+![Navigationbar](documentation/wireframe-landing.png)
+
+### Games & Events
+![Navigationbar](documentation/wireframe-games.png)
+
+### Booking & Menu
+
+![Navigationbar](documentation/wireframe-booking.png)
 
 
