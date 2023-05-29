@@ -10,7 +10,7 @@ Gather Round is a fictional website for a fictional boardgame cafe business base
 ## User Experience(UX)
 
 - ### User Stories
-    - #### First Time Visitor
+- #### First Time Visitor
     1. I want to easily understand the website purpose and access information on board gaming and the board game cafe.
     2. I want to access information on opening hours, location and find out how to visit.
     3. I want to be able to navigate through a game library and events calendar to understand what is on offer.
@@ -127,18 +127,30 @@ There were a number of errors relating to syntax issues and incorrect use of ari
 
 There were a number of errors relating to syntax issues that were fixed by the developer.
 
-## Browser compatibility
+## Browser compatibility and responsivity
 The site has been tested on the following browsers with no issues identified at the time of testing:
 - Firefox 113.0.2 (64 bit)
 - Edge 113.0. 1774.35 (64 bit)
 - Chrome 113.0. 5672.64 (64 bit)
 - Safari 16.4.1
 
+The site has been developed to be responsive at:
+
+- larger to medium screen sizes from 1200px wide and down;
+- medium to smaller screen sizes from 950px wide and down;
+- and smaller screen sizes from 320px wide and down.
+
 ## Testing and results
 The following details the tests that were set out and completed for the site:
 
 ![CSS Validator](documentation/website-test.png)
 
+The site has been developed to be responsive on:
+
+- larger to medium screen sizes from 1200px wide and down;
+- medium to smaller screen sizes from 950px wide and down;
+- and smaller screen sizes from 320px wide and down.
+  
 ## Known bugs
 
 UPDATE THIS POST DISCUSSION
@@ -173,7 +185,9 @@ UPDATE THIS POST DISCUSSION
 - Code to style and make the events calendar responsive was informed by the Code Institute Love Running Project
 - Code on how to style forms with CSS was based on https://www.w3schools.com/css/css_form.asp
 - Code on how to style tables with CSS was based on <https://www.w3schools.com/css/css_table.asp>
-- Code on how to style forms and buttons with CSS was based on https://www.w3schools.com/tags/att_input_type_button.asp
+- Code on how to style forms and buttons with CSS was based on <https://www.w3schools.com/tags/att_input_type_button.asp>
+- Code on how to develop a hero image background with CSS was based on <https://www.w3schools.com/howto/howto_css_hero_image.asp>
+- Code on how to style the hover function and pointer with CSS based on <https://www.w3schools.com/cssref/sel_hover.php>
 
 ### Media
 
