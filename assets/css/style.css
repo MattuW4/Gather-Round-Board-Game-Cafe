@@ -147,7 +147,7 @@ li {
     list-style-type: none;
     border-radius: 2px;
     font-size: 25px;
-    font: Nunito, sans-serif;
+    font-family: Nunito, sans-serif;
     text-transform: uppercase;
     color: #d9d9d9;
     background-color: rgb(139, 0, 139, 0.6);
@@ -198,7 +198,7 @@ td {
 
 #sunny-link-style {
     color: #d9d9d9;
-    font: Nunito, sans-serif;
+    font-family: Nunito, sans-serif;
 }
 
 #sunny-link-style:hover {
@@ -210,7 +210,7 @@ td {
 
 footer {
     height: 150px;
-    font: Nunito, sans-serif;
+    font-family: Nunito, sans-serif;
     color: #d9d9d9;
     text-align: center;
     clear: both;
@@ -254,7 +254,7 @@ footer p {
     list-style-type: none;
     border-radius: 2px;
     font-size: 15px;
-    font: Nunito, inherit;
+    font-family: Nunito, sans-serif;
     text-transform: uppercase;
     background-color: rgb(139, 0, 139, 0.6);
     cursor: pointer;
@@ -373,3 +373,4 @@ textarea {
             margin-left: 2px;
             margin-right: 41px;
         }
+    }
