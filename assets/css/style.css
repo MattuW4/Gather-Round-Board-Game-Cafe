@@ -218,7 +218,7 @@ footer {
     font: Nunito, sans-serif;
     color: #d9d9d9;
     text-align: center;
-
+    clear: both;
 }
 
 #social-media-style i {
@@ -248,10 +248,6 @@ footer p {
     font-weight: bold;
 
 
-}
-
-footer {
-    clear: both;
 }
 
 #mailing-list-style {
@@ -362,6 +358,7 @@ textarea {
     float: left;
     text-align: center;
     border: 2px solid #1a1a1a;
+    border-radius: 3px;
 }
 
 /* Media queries */
@@ -374,8 +371,16 @@ textarea {
 
     }
 
-    /* For medium to smaller screen sizes from 768px wide and down */
-    @media screen and (max-width: 768px) {
+    .event-style {
+        width: 100%;
+        clear: both;
+        height: 140px;
+        padding: 0;
+
+    }
+
+    /* For medium to smaller screen sizes from 950px wide and down */
+    @media screen and (max-width: 950px) {
         #library-images {
             column-count: 1;
         }
@@ -390,4 +395,3 @@ textarea {
             margin-left: 2px;
             margin-right: 21px;
         }
-    }
