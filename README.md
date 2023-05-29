@@ -106,8 +106,9 @@ Consistent colours of white, black and purple were employed to make the site mor
 - [CSS3](https://en.wikipedia.org/wiki/HTML5)
 
 ### Libraries, frameworks and programs 
+- [Pexels](https://www.pexels.com/): this was used to access images for the site
 - [Font Awesome](https://fontawesome.com/): this was used to access icons for design purposes.
-- [Google Fonts:](https://fonts.google.com/): Nurito font was downloaded and imported to be applied across the project for styling purposes.
+- [Google Fonts](https://fonts.google.com/): Nurito font was downloaded and imported to be applied across the project for styling purposes.
 - [Code Anywhere](https://codeanywhere.com/): this was used for version control via the terminal to commit to Code Anywhere and Push to GitHub as the repository.
 - [GIt hub](https://github.com/): this was used as a repository for projects that were commited from Code Anywhere.
 - [Tiny PNG](https://tinypng.com/): this was used to compress files for inclusion.
@@ -172,6 +173,24 @@ UPDATE THIS POST DISCUSSION
 - Code to style and make the events calendar responsive was informed by the Code Institute Love Running Project
 - Code on how to style forms with CSS was based on https://www.w3schools.com/css/css_form.asp
 - Code on how to style tables with CSS was based on <https://www.w3schools.com/css/css_table.asp>
+- Code on how to style forms and buttons with CSS was based on https://www.w3schools.com/tags/att_input_type_button.asp
 
+### Media
+
+- The icons used in the nav bar and footer were taken from [Font Awesome](https://fontawesome.com/)
+- The font used across the site was taken from [Google Fonts](https://fonts.google.com/)
+- All images from accessed from [Pexels](https://www.pexels.com/):
+  - [The Home Page Hero Image](https://www.pexels.com/photo/close-up-of-people-playing-board-game-4967339/) was by Egidijus Bielskis
+  - [The Booking Page Hero Image](https://www.pexels.com/photo/group-of-people-sitting-at-the-table-8111298/) was by Pavel Danilyuk
+  - [The Domino Image](https://www.pexels.com/photo/addiction-deck-dominoes-gambling-278912/) was by Pixabay
+  - [The Scrabble Image](https://www.pexels.com/photo/addiction-deck-dominoes-gambling-278912/) was by Pixabay
+  - [The Chess image](https://www.pexels.com/photo/chess-pieces-on-table-1152662/) was by Ylanite Koppens
+  - [The Monopoly image](https://www.pexels.com/photo/chess-pieces-on-table-1152662/) was by Ylanite Koppens
+  - [The Uno image](https://www.pexels.com/photo/teapot-and-teacup-beside-uno-cards-on-round-woven-placemat-15111350/) was by Arturo David A
+  - [The Cards Against Humanity image](https://www.pexels.com/photo/cards-against-humanity-188470/) was by Pablo Punk
+
+## Acknowledgements
+
+Thanks to my mentor Brian Macharia who provided insightful feedback, reassurance and input with the project development and implementation. 
 
 
