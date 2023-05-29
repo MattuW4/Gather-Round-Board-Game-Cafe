@@ -357,20 +357,21 @@ textarea {
         height: 140px;
         padding: 0;
     }
+}
 
-    /* For medium to smaller screen sizes from 950px wide and down */
-    @media screen and (max-width: 950px) {
-        #library-images {
-            column-count: 1;
-        }
-
-        .home-mobile-scale-style {
-            display: none;
-        }
-
-        #nav-style li {
-            background-color: rgb(139, 0, 139, 0.6);
-            margin-left: 2px;
-            margin-right: 41px;
-        }
+/* For medium to smaller screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+    #library-images {
+        column-count: 1;
     }
+
+    .home-mobile-scale-style {
+        display: none;
+    }
+
+    #nav-style li {
+        background-color: rgb(139, 0, 139, 0.6);
+        margin-left: 2px;
+        margin-right: 41px;
+    }
+}
