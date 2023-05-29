@@ -12,7 +12,6 @@ h2 {
     font-size: 30px;
     color: #d9d9d9;
     margin: 25px 0px;
-
 }
 
 p {
@@ -102,7 +101,6 @@ li {
     background-color: #8B008B;
     color: #1a1a1a;
     border-radius: 30%;
-
 }
 
 /* Hero image and text*/
@@ -119,7 +117,6 @@ li {
     width: 100%;
     background: url(../images/hero-image.jpeg) no-repeat center center;
     position: relative;
-
 }
 
 #hero-text {
@@ -197,11 +194,9 @@ td {
     width: 100%;
     height: 250px;
     padding: 40px 0px;
-
 }
 
 #sunny-link-style {
-
     color: #d9d9d9;
     font: Nunito, sans-serif;
 }
@@ -226,16 +221,12 @@ footer {
     color: #d9d9d9;
     margin: 1%;
     padding: 1%;
-
     font-size: 180%;
-
 }
 
 #social-media-style i:hover {
     background-color: #d9d9d9;
     color: #1a1a1a;
-    padding: none;
-    margin: none;
     border-radius: 50%;
     border: 1px;
 }
@@ -246,8 +237,6 @@ footer p {
     margin: 25px;
     line-height: 35px;
     font-weight: bold;
-
-
 }
 
 #mailing-list-style {
@@ -259,7 +248,6 @@ footer p {
 
 #subcribe-button-style {
     color: #d9d9d9;
-
     font: inherit;
     cursor: pointer;
     padding: 2px 8px;
@@ -268,7 +256,6 @@ footer p {
     font-size: 15px;
     font: Nunito, inherit;
     text-transform: uppercase;
-
     background-color: rgb(139, 0, 139, 0.6);
     cursor: pointer;
 }
@@ -293,8 +280,6 @@ img {
 #library-images>p {
     text-align: center;
     text-transform: uppercase;
-
-
 }
 
 /* Booking form style */
@@ -304,7 +289,6 @@ img {
     width: 100%;
     background: url(../images/book.jpg) no-repeat center;
     background-size: contain;
-
     background-attachment: fixed;
 }
 
@@ -347,10 +331,7 @@ textarea {
     color: #1a1a1a;
 }
 
-
-
 /* Events style*/
-
 .event-style {
     background-color: rgb(139, 0, 139, 0.6);
     width: 19%;
@@ -368,7 +349,6 @@ textarea {
 
     #library-images {
         column-count: 2;
-
     }
 
     .event-style {
@@ -376,7 +356,6 @@ textarea {
         clear: both;
         height: 140px;
         padding: 0;
-
     }
 
     /* For medium to smaller screen sizes from 950px wide and down */
@@ -387,11 +366,10 @@ textarea {
 
         .home-mobile-scale-style {
             display: none;
-            padding: none;
         }
 
         #nav-style li {
             background-color: rgb(139, 0, 139, 0.6);
             margin-left: 2px;
-            margin-right: 21px;
+            margin-right: 41px;
         }
