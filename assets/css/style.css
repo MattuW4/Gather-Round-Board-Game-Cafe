@@ -173,7 +173,7 @@ table {
 
 tr {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 5fr 10fr 3fr;
 }
 
 tr,
