@@ -84,7 +84,7 @@ As stated, the images and iconography are styled and employed to connect with us
 
 ### Colours and scheme
 
-Consistent colours of white, blakc and purple were employed to make the site more accessible visually and aid with elements being prominent. These colours would also relate to the branding of the cafe itself. The darker shades of black/purple were selected to create a complimentary, warm abbience.
+Consistent colours of white, black and purple were employed to make the site more accessible visually and aid with elements being prominent. These colours would also relate to the branding of the cafe itself. The darker shades of black/purple were selected to create a complimentary, warm abbience.
 
 ## Wireframe sketches
 
@@ -110,6 +110,7 @@ Consistent colours of white, blakc and purple were employed to make the site mor
 - [Google Fonts:](https://fonts.google.com/): Nurito font was downloaded and imported to be applied across the project for styling purposes.
 - [Code Anywhere](https://codeanywhere.com/): this was used for version control via the terminal to commit to Code Anywhere and Push to GitHub as the repository.
 - [GIt hub](https://github.com/): this was used as a repository for projects that were commited from Code Anywhere.
+- [Tiny PNG](https://tinypng.com/): this was used to compress files for inclusion.
 
 
 ## Testing
@@ -136,3 +137,41 @@ The site has been tested on the following browsers with no issues identified at 
 The following details the tests that were set out and completed for the site:
 
 ![CSS Validator](documentation/website-test.png)
+
+## Known bugs
+
+UPDATE THIS POST DISCUSSION
+
+## Deployment
+
+### Deployment of site
+- In the GitHub repository, select the Settings tab
+- Select the the Pages tab from the left hand menu
+- Under the branch section select 'main' branch. This will display a message to indicate deployment if completed successfully
+- Any subsequent changes to the project will take effect on the live page
+- A live link to the functional site can be found here [View the live project here](https://mattuw4.github.io/Gather-Round-Board-Game-Cafe/)
+
+### Cloning the repository
+
+- Navigate to the repository <https://github.com/MattuW4/Gather-Round-Board-Game-Cafe> on GitHub
+- Above the list of files, click Code
+- Copy the URL for the repository by selecting HTTPs
+- Open Git Bash
+- Change the current working directory to the location where you want the cloned directory
+- Type 'git clone', and then paste the URL you copied earlier
+- Press Enter to create your local clone
+
+## Credits
+
+### Content
+- All content was written by the developer
+
+### Code
+
+- Code on how to use flex box and implement for ordering purposes it was based on instructions from <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
+- Code to style and make the events calendar responsive was informed by the Code Institute Love Running Project
+- Code on how to style forms with CSS was based on https://www.w3schools.com/css/css_form.asp
+- Code on how to style tables with CSS was based on <https://www.w3schools.com/css/css_table.asp>
+
+
+
