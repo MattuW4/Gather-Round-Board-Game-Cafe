@@ -2,7 +2,7 @@
 
 [View the live project here](https://mattuw4.github.io/Gather-Round-Board-Game-Cafe/)
 
-Gather Round is a fictional website for a fictional board game cafe business based in Leeds, UK. The primary focus of the business to cater for board game enthusiasts and those interested in the hobby in a social environment. The target user for the business are both existing gamers and those interested in trying out a new experience, as well as people wanting to socialise. The primary Unique Selling Point (USP) of the business is that is provides a physical space for people to come together and effectively hire games from the library in the cafe, whilst providing ancillary offers of food and drinks to accompany. The site has been developed to raise awareness of the cafe game, food and drinks offers, whilst providing information on opening times, location, a calendar of events and overview of games offered. There are also means for potential patrons to book a session - a prime focus of the user experience (UX) - or to access more information by signing up to a mailing list that will grow the customer base remotely.
+Gather Round is a fictional website for a fictional board game cafe business based in Leeds, UK. The primary focus of the business to cater for board game enthusiasts and those interested in the hobby in a social environment. The target user for the business are both existing gamers and those interested in trying out a new experience, as well as people wanting to socialise. The primary Unique Selling Point (USP) of the business is that is provides a physical space for people to come together and effectively hire games from the library in the cafe, whilst providing ancillary offers of food and drinks to accompany. The site has been developed to raise awareness of the cafe game, food and drinks offers, whilst providing information on opening times, location, a calendar of events and overview of games offered. There are also means for potential patrons to book a session - a prime focus of the user experience (UX) - or to access more information by signing up to a mailing list that will grow the customer base remotely. The site is designed to be simple, yet engaging for UX in order that visitors can access relevant information in order to be able to make a decision. The content is rich but foxused and contextualised in a stylised world that the user would be able to understand and identify with.
 
 ![Mockup](documentation/respo-mockup.png)
 
@@ -242,8 +242,10 @@ The site has been developed to be responsive on:
 
 ### Code
 
-- Code on how to use flex box and implement for ordering purposes was informed by resources from [a Guide to Flex box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
-- Code to style and make the events calendar responsive was informed by the Code Institute [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/c428cfb8fd5e4852bbba1f94e914b3b4/).
+Within the CSS code there are comments to indicate where the below resources were used as a basis to inform the code that was ultimately produced to style the site.
+
+- Code on how to use flex box and implement for ordering purposes was informed by resources from [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+- Code to style and make the events calendar and tables in the site responsive was informed by the Code Institute [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/c428cfb8fd5e4852bbba1f94e914b3b4/).
 - Code on how to develop a hero image background with CSS was informed by resources from [W3SCHOOLS](https://www.w3schools.com/howto/howto_css_hero_image.asp).
 - Code on how to style the hover function and pointer with CSS was informed by resources from [W3SCHOOLS](https://www.w3schools.com/cssref/sel_hover.php).
 - Code on how to style the zoom feature of the landing page hero image when hovering with CSS was informed by resources from [CODEPEN](https://codepen.io/jnnfrcyl/pen/rpQNOB).

@@ -81,6 +81,8 @@ body {
     margin: 30px;
     text-decoration: none;
     line-height: 35px;
+
+    /* Following informed by informed by resources from CSS Tricks */
     display: flex;
     flex-direction: row;
 }
@@ -123,14 +125,18 @@ li {
     width: 100%;
     background: url(../images/hero-image.jpeg) no-repeat center center;
     position: relative;
+
+    /* Following informed by informed by resources from CODEPEN */
     background-size: cover;
     transition: transform 4s;
 }
 
+/* Following informed by informed by resources from CODEPEN */
 #hero-image:hover {
     transform: scale(1.15);
 }
 
+/* Following informed by informed by resources from W3Schools */
 #hero-text {
     text-align: center;
     position: absolute;
@@ -163,6 +169,8 @@ li {
     text-transform: uppercase;
     color: #d9d9d9;
     background-color: rgb(139, 0, 139, 0.6);
+
+    /* Following informed by informed by resources from W3SCHOOLS */
     cursor: pointer;
 }
 
@@ -173,6 +181,7 @@ li {
 
 /* Style opening times table */
 
+/* Following informed by informed by resources from Love Running */
 table {
     width: 100%;
     font-size: 1.25rem;
@@ -300,6 +309,7 @@ div>p {
 
 /* Booking form style */
 
+/* Following informed by informed by resources from W3SCHOOLS */
 #booking-form-background {
     height: 600px;
     width: 100%;
@@ -354,6 +364,8 @@ textarea {
 }
 
 /* Events style*/
+
+/* Following informed by informed by resources from W3Schools */
 .event-style {
     background: linear-gradient(to bottom, rgb(139, 0, 139, 0.6), #ffffff2b);
     width: 19%;
