@@ -142,7 +142,7 @@ There were a number of errors relating to syntax issues that were fixed by the d
 
 ### Performance
 
-![lighthouse-performance](documentation/lighthouse-performance.png)
+![performance-lighthouse](documentation/performance-lighthouse.png)
 
 As the performance score is lower than desired the following steps are some of the approaches that could be considered to address this in the future:
 
