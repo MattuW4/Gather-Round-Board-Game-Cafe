@@ -251,7 +251,7 @@ Within the CSS code there are comments to indicate where the below resources wer
 - Code on how to develop a hero image background with CSS was informed by resources from [W3SCHOOLS](https://www.w3schools.com/howto/howto_css_hero_image.asp).
 - Code on how to style the hover function and pointer with CSS was informed by resources from [W3SCHOOLS](https://www.w3schools.com/cssref/sel_hover.php).
 - Code on how to style the zoom feature of the landing page hero image when hovering with CSS was informed by resources from [CODEPEN](https://codepen.io/jnnfrcyl/pen/rpQNOB).
-- Code on how to apply a gradient color style using css was informed by resources from [W3SCHOOLS](https://www.w3schools.com/css/css3_gradients.asp).
+- Code on how to apply a gradient colour style using css was informed by resources from [W3SCHOOLS](https://www.w3schools.com/css/css3_gradients.asp).
 
 ### Media
 
