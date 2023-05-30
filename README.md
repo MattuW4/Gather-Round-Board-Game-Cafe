@@ -27,45 +27,45 @@ Gather Round is a fictional website for a fictional boardgame cafe business base
 
 The navigation bar is consistent across all pages, being easy to recognise, find and use. It has a logo to the left that takes the user to the homepage and a simple menu, game library and booking link to the right. The latter have been developed to be responsive for smaller devices with the home page tabe disappearing to accommodate a balanced display.
 
-![Navigationbar](documentation/f01-nav-bar.png)
+![Navbar](documentation/f01-navigation-bar.png)
 
 - F02, F03, F04, F05, F06 Landing page and hero image
 
 There is a hero image on the landing page that welcomes the user and clearly states the cafe name. The image has been chosen to draw the user in to a shared experience that they might be seeking and identify with. There is easily accessible information on the cafe, the opening times (in a table) and location with an embeded google maps link. A button internally links the user directly to the booking page as the site intends to provide information to make an informed decision, that decision being for a user to commit their custom and book.
 
-![Hero Landing](documentation/f02-hero-landing.png)
+![Hero Landing](documentation/f02-hero-home.png)
 
-![About](documentation/f03-about.png)
+![About](documentation/f03-about-img.png)
 
-![Booking button](documentation/f04-booking-button.png)
+![Booking button](documentation/f04-book-button.png)
 
-![Opening times](documentation/f05-opening-times-table.png)
+![Opening times](documentation/f05-times-table.png)
 
-![Map](documentation/f06-where-to-find-map.png)
+![Map](documentation/f06-location-map.png)
 
 - F07 Landing page and hero image
 
 The footer is consistent across all pages, being easy to recognise, find and use. It has the address and contact details to the left. Centrally there are the main social media platforms that will link the user to Gather Round's social media platforms, these all opening in a new window. To the right there is an option for the user to enter their email to join the mailing list for both further information but to also curate an UX of being part of a community and connecting with other like-minded people. The form prompts the user to enter an email in order to submit the form.
 
-![Social signup](documentation/f07-footer-social-signup.png)
+![Social signup](documentation/f07-footer.png)
 
 - F08, F09 Games and Events page
 
 This page provides an overview of some games that the cafe offers. The images are styled to draw the user in whilst providing easily accessible information for them to make a decision. These image columns are responsively styled on smaller devices. There is a booking button again that encourages the user to book based on the games that they have seen and make this easy to achieve. The events section is also responsively designed to scale to fit smaller devices. The intention of this section is to again inform the user about what is going on, empowering them to make a decision about joining the social element of the cafe whilst also informing about particular game formats that they may be interested or engaged in.
 
-![Games](documentation/f08-games.png)
+![Games](documentation/f08-library.png)
 
-![Events](documentation/f09-events.png)
+![Events](documentation/f09-calendar.png)
 
 - F10, F11, F12 Booking and menu hero image, booking form and menu table
 
 The hero image here has been chosen to evoke the social experience that would excite the user and encourage them to book  making an emotional connection. The form has been developed and is a destination from acros the site by internal links. The form requires the user to enter information in all sections but also provides the option to reset at any point. This form is responsively designed to scale down to smaller devices. To accompany the booking form and increase likelihood of a user committing to a longer period of time at the cafe the simple food and drinks menu is below which is also responsively designed. Whilst this information is important it is prioritised lowest in terms of feature prominence because it is anticipated that users would want higher ranking information in the first instance i.e. opening times, locaction, booking options, games and events. 
 
-![Hero booking image](documentation/f10-booking-hero.png)
+![Hero booking image](documentation/f10-hero-booking.png)
 
-![Booking form](documentation/f11-booking-form.png)
+![Booking form](documentation/f11-form-booking.png)
 
-![Menu](documentation/f12-menu-table.png)
+![Menu](documentation/f12-table-food-drink.png)
 
 ## User story interaction with features
 
@@ -90,14 +90,14 @@ Consistent colours of white, black and purple were employed to make the site mor
 
 ### Landing page
 
-![Wireframe landing](documentation/wireframe-landing.png)
+![Wireframe landing](documentation/landing-wireframe.png)
 
 ### Games & Events
-![Wireframe games](documentation/wireframe-games.png)
+![Wireframe games](documentation/games-wireframe.png)
 
 ### Booking & Menu
 
-![Wireframe booking](documentation/wireframe-booking.png)
+![Wireframe booking](documentation/booking-wireframe.png)
 
 ## Technology employed
 
@@ -117,13 +117,13 @@ Consistent colours of white, black and purple were employed to make the site mor
 ## Testing
 - The site has been tested in [HTML Validator](https://validator.w3.org/). The HTML is valid at the time of writing as demonstrated below:
 
-![HTML Validator](documentation/html-validation.png)
+![HTML Validator](documentation/validation-html.png)
 
 There were a number of errors relating to syntax issues and incorrect use of aria-labelby identified which were fixed by the developer.
 
 - The site has been tested in [CSS Validator](https://jigsaw.w3.org/css-validator/). The CSS is valid at the time of writing as demonstrated below:
 
-![CSS Validator](documentation/css-validation.png)
+![CSS Validator](documentation/validation-css.png)
 
 There were a number of errors relating to syntax issues that were fixed by the developer.
 
