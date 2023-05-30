@@ -255,7 +255,7 @@ footer p {
     float: right;
     margin: 25px;
     line-height: 35px;
-    text-align: right;
+    display: grid;
 }
 
 #subcribe-button-style {
