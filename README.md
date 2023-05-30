@@ -174,6 +174,13 @@ UPDATE THIS POST DISCUSSION
 - Type 'git clone', and then paste the URL you copied earlier
 - Press Enter to create your local clone
 
+### Any change made to the site should be committed and pushed to Github like so within your IDE terminal:
+- Using the 'Git Add' command move files to the staging area
+- Using the 'Git Commit' command take a snapshot of the current state of your repository
+- The git commit command requires a commit message that describes the snapshot/changes that you made in that commit
+- Use the 'Git Push' command to push the files to the GitHub repository
+- As the site is live changes will take effect there
+
 ## Credits
 
 ### Content
