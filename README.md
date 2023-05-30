@@ -192,7 +192,7 @@ The site has been developed to be responsive on:
 ## Known bugs
 
 - Within Code Anywhere there is a warning notification of "Import statements do not load in parallel". This has been explored with support and is understood to relate to potential perforaance issues if there were a style sheet opened or linked to the style sheet within this project. As this is not a feature of this project, the warning is not thought to be significant at this time.
-- It was noted that the game images did not align within the columns after testing and adapting the CSS.
+- It was noted that the game images did not align within the columns after testing and adapting the CSS. This was due to a style rule being applied globally to paragraphs. A solution to apply a local rule to the paragraph of the div was implemented without using fixes like flex or display grid as the stated approach achieved the desired outcome.
 
 ## Deployment
 
