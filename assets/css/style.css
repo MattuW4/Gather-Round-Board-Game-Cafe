@@ -11,13 +11,16 @@ h2 {
     text-transform: uppercase;
     font-size: 1.875rem;
     color: #d9d9d9;
-    margin: 25px 0px;
+    letter-spacing: 1px;
+
 }
 
 p {
     font-size: 1.25rem;
     line-height: 40px;
     text-align: justify;
+    margin: 20px 0px;
+
 }
 
 h3 {
@@ -311,6 +314,11 @@ textarea {
     margin-bottom: 15px;
     border-radius: 2px;
     max-width: 100%;
+    display: block;
+}
+
+.section-style>table {
+    margin-top: 20px;
 }
 
 .radio-button-style {
