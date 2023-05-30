@@ -184,7 +184,7 @@ The site has been developed to be responsive on:
   
 ## Known bugs
 
-UPDATE THIS POST DISCUSSION
+- Within Code Anywhere there is a warning notification of "Import statements do not load in parallel". This has been explored with support and is understood to relate to potential perforaance issues if there were a style sheet opened or linked to the style sheet within this project. As this is not a feature of this project, the warning is not thought to be significant at this time.
 
 ## Deployment
 
@@ -205,6 +205,18 @@ UPDATE THIS POST DISCUSSION
 - Change the current working directory to the location where you want the cloned directory;
 - Type 'git clone', and then paste the URL you copied earlier;
 - Press Enter to create your local clone.
+
+### Forking a project
+
+- A fork is a new repository that shares code and visibility settings with the original “upstream” repository.
+- On GitHub.com, navigate to the relevant repository;
+- In the top-right corner of the page, click Fork;
+- Under "Owner," select the dropdown menu and click an owner for the forked repository;
+- By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name;
+- Optionally, in the "Description" field, type a description of your fork;
+- Optionally, select Copy the DEFAULT branch only;
+- For many forking scenarios, such as contributing to open-source projects, you only need to copy the default branch. If you do not select this option, all branches will be copied into the new fork;
+- Click Create fork.
 
 ### Any change made to the site should be committed and pushed to GitHub like so within your IDE terminal
 

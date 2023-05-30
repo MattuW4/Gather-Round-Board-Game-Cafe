@@ -351,7 +351,7 @@ textarea {
 
 /* Events style*/
 .event-style {
-    background-color: rgb(139, 0, 139, 0.6);
+    background: linear-gradient(to bottom, rgb(139, 0, 139, 0.6), #ffffff2b);
     width: 19%;
     height: 127px;
     float: left;
@@ -375,7 +375,7 @@ textarea {
         width: 100%;
         clear: both;
         height: 140px;
-        padding: 0;
+        padding: 10px;
     }
 }
 
@@ -387,6 +387,10 @@ textarea {
 
     .home-mobile-scale-style {
         display: none;
+    }
+
+    .event-style {
+        padding: 0px;
     }
 
     #nav-style li {
@@ -428,5 +432,9 @@ textarea {
 
     .section-style {
         min-width: 300px;
+    }
+
+    .event-style {
+        padding: 0px;
     }
 }
