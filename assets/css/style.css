@@ -122,7 +122,7 @@ li {
     background: url(../images/hero-image.jpeg) no-repeat center center;
     position: relative;
     background-size: cover;
-    transition: transform 2s;
+    transition: transform 4s;
 }
 
 #hero-image:hover {

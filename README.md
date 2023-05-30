@@ -185,9 +185,10 @@ UPDATE THIS POST DISCUSSION
 - Code to style and make the events calendar responsive was informed by the Code Institute Love Running Project
 - Code on how to style forms with CSS was based on https://www.w3schools.com/css/css_form.asp
 - Code on how to style tables with CSS was based on <https://www.w3schools.com/css/css_table.asp>
-- Code on how to style forms and buttons with CSS was based on <https://www.w3schools.com/tags/att_input_type_button.asp>
+- Code on how to style buttons with CSS was based on <https://www.w3schools.com/tags/att_input_type_button.asp>
 - Code on how to develop a hero image background with CSS was based on <https://www.w3schools.com/howto/howto_css_hero_image.asp>
 - Code on how to style the hover function and pointer with CSS based on <https://www.w3schools.com/cssref/sel_hover.php>
+- Code on how to style the zoom feature of the landing page hero image when hovering with CSS based on <https://codepen.io/jnnfrcyl/pen/rpQNOB>
 
 ### Media
 
