@@ -3,7 +3,7 @@
 [View the live project here](https://mattuw4.github.io/Gather-Round-Board-Game-Cafe/)
 
 
-Gather Round is a fictional website for a fictional boardgame cafe business based in Leeds, UK. The primary focus of the business to to cater for board game enthusiasts and those interested in the hobby in a social environment. The target user for the business are both existing gamers and those interested in trying out a new experience, as well as people wanting to socialise. The primary Unique Selling Point (USP) of the business is that is provides a physical space for people to come together and effectively hire games from the library in the cafe, whilst providing ancillary offers of food and drinks to accompany. The site has been developed to raise awareness of the cafe game, food and drinks offers, whilst providing information on opening times, location, a calendar of events and overview of games offered. There are also means for potential patrons to book a session - a prime focus of the user experience (UX) - or to access more infommation by signing up to a mailing list that will grow the customer base remotely.
+Gather Round is a fictional website for a fictional board game cafe business based in Leeds, UK. The primary focus of the business to cater for board game enthusiasts and those interested in the hobby in a social environment. The target user for the business are both existing gamers and those interested in trying out a new experience, as well as people wanting to socialise. The primary Unique Selling Point (USP) of the business is that is provides a physical space for people to come together and effectively hire games from the library in the cafe, whilst providing ancillary offers of food and drinks to accompany. The site has been developed to raise awareness of the cafe game, food and drinks offers, whilst providing information on opening times, location, a calendar of events and overview of games offered. There are also means for potential patrons to book a session - a prime focus of the user experience (UX) - or to access more information by signing up to a mailing list that will grow the customer base remotely.
 
 ![Mockup](documentation/respo-mockup.png)
 
@@ -15,23 +15,23 @@ Gather Round is a fictional website for a fictional boardgame cafe business base
     2. I want to access information on opening hours, location and find out how to visit.
     3. I want to be able to navigate through a game library and events calendar to understand what is on offer.
     4. I want to browse a food and drinks menu.
-- #### Returning vistor
+- #### Returning Visitor
     1. I want achieve the above goals more quickly, fluidly and intuitively.
     2. I want to be able to make a booking, sign up to the mailing list or get in contact with the cafe.
-- #### Frequent visitor
+- #### Frequent Visitor
     1. I want to be able to go straight the booking page and book a session. 
 
 ## Existing site features
 
 - F01 Navigation bar
 
-The navigation bar is consistent across all pages, being easy to recognise, find and use. It has a logo to the left that takes the user to the homepage and a simple menu, game library and booking link to the right. The latter have been developed to be responsive for smaller devices with the home page tabe disappearing to accommodate a balanced display.
+The navigation bar is consistent across all pages, being easy to recognise, find and use. It has a logo to the left that takes the user to the homepage and a simple menu, game library and booking link to the right. The latter have been developed to be responsive for smaller devices with the home page tab disappearing to accommodate a balanced display.
 
 ![Navbar](documentation/f01-navigation-bar.png)
 
 - F02, F03, F04, F05, F06 Landing page and hero image
 
-There is a hero image on the landing page that welcomes the user and clearly states the cafe name. The image has been chosen to draw the user in to a shared experience that they might be seeking and identify with. There is easily accessible information on the cafe, the opening times (in a table) and location with an embeded google maps link. A button internally links the user directly to the booking page as the site intends to provide information to make an informed decision, that decision being for a user to commit their custom and book.
+There is a hero image on the landing page that welcomes the user and clearly states the cafe name. The image has been chosen to draw the user in to a shared experience that they might be seeking and identify with. There is easily accessible information on the cafe, the opening times (in a table) and location with an embedded google maps link. A button internally links the user directly to the booking page as the site intends to provide information to make an informed decision, that decision being for a user to commit their custom and book.
 
 ![Hero Landing](documentation/f02-hero-home.png)
 
@@ -59,7 +59,7 @@ This page provides an overview of some games that the cafe offers. The images ar
 
 - F10, F11, F12 Booking and menu hero image, booking form and menu table
 
-The hero image here has been chosen to evoke the social experience that would excite the user and encourage them to book  making an emotional connection. The form has been developed and is a destination from acros the site by internal links. The form requires the user to enter information in all sections but also provides the option to reset at any point. This form is responsively designed to scale down to smaller devices. To accompany the booking form and increase likelihood of a user committing to a longer period of time at the cafe the simple food and drinks menu is below which is also responsively designed. Whilst this information is important it is prioritised lowest in terms of feature prominence because it is anticipated that users would want higher ranking information in the first instance i.e. opening times, locaction, booking options, games and events. 
+The hero image here has been chosen to evoke the social experience that would excite the user and encourage them to book  making an emotional connection. The form has been developed and is a destination from across the site by internal links. The form requires the user to enter information in all sections but also provides the option to reset at any point. This form is responsively designed to scale down to smaller devices. To accompany the booking form and increase likelihood of a user committing to a longer period of time at the cafe the simple food and drinks menu is below which is also responsively designed. Whilst this information is important it is prioritised lowest in terms of feature prominence because it is anticipated that users would want higher ranking information in the first instance i.e. opening times, location, booking options, games and events. 
 
 ![Hero booking image](documentation/f10-hero-booking.png)
 
@@ -84,7 +84,7 @@ As stated, the images and iconography are styled and employed to connect with us
 
 ### Colours and scheme
 
-Consistent colours of white, black and purple were employed to make the site more accessible visually and aid with elements being prominent. These colours would also relate to the branding of the cafe itself. The darker shades of black/purple were selected to create a complimentary, warm abbience.
+Consistent colours of white, black and purple were employed to make the site more accessible visually and aid with elements being prominent. These colours would also relate to the branding of the cafe itself. The darker shades of black/purple were selected to create a complimentary, warm ambience.
 
 ## Wireframe sketches
 
@@ -108,9 +108,9 @@ Consistent colours of white, black and purple were employed to make the site mor
 ### Libraries, frameworks and programs 
 - [Pexels](https://www.pexels.com/): this was used to access images for the site
 - [Font Awesome](https://fontawesome.com/): this was used to access icons for design purposes.
-- [Google Fonts](https://fonts.google.com/): Nurito font was downloaded and imported to be applied across the project for styling purposes.
+- [Google Fonts](https://fonts.google.com/): Nunito font was downloaded and imported to be applied across the project for styling purposes.
 - [Code Anywhere](https://codeanywhere.com/): this was used for version control via the terminal to commit to Code Anywhere and Push to GitHub as the repository.
-- [GIt hub](https://github.com/): this was used as a repository for projects that were commited from Code Anywhere.
+- [GItHub](https://github.com/): this was used as a repository for projects that were committed from Code Anywhere.
 - [Tiny PNG](https://tinypng.com/): this was used to compress files for inclusion.
 
 
@@ -127,17 +127,17 @@ There were a number of errors relating to syntax issues and incorrect use of ari
 
 There were a number of errors relating to syntax issues that were fixed by the developer.
 
-## Lighthouse accesibility test
+## Lighthouse accessibility test
 [Google's web.dev page quality test](https://web.dev/measure/) was used to measure the website against performance, accessibility, SEO and best practice.
 
-### Performanace
+### Performance
 ![lighthouse-performance](documentation/lighthouse-performance.png)
 
 ### Accessibility
 ![lighthouse-accessibility](documentation/lighthouse-accessibility.png)
 - Before the accessibility test the site was rated around 84 as there were some syntax issues and aria-labelby had been used incorrectly but by addressing these elements a 100% rating has been achieved.
 
-### Performanace
+### SEO
 ![lighthouse-performance](documentation/lighthouse-seo.png)
 
 ### Best Practice
@@ -176,7 +176,7 @@ UPDATE THIS POST DISCUSSION
 
 ### Deployment of site
 - In the GitHub repository, select the Settings tab
-- Select the the Pages tab from the left hand menu
+- Select the Pages tab from the left hand menu
 - Under the branch section select 'main' branch. This will display a message to indicate deployment if completed successfully
 - Any subsequent changes to the project will take effect on the live page
 - A live link to the functional site can be found here [View the live project here](https://mattuw4.github.io/Gather-Round-Board-Game-Cafe/)
@@ -191,7 +191,7 @@ UPDATE THIS POST DISCUSSION
 - Type 'git clone', and then paste the URL you copied earlier
 - Press Enter to create your local clone
 
-### Any change made to the site should be committed and pushed to Github like so within your IDE terminal:
+### Any change made to the site should be committed and pushed to GitHub like so within your IDE terminal:
 - Using the 'Git Add' command move files to the staging area
 - Using the 'Git Commit' command take a snapshot of the current state of your repository
 - The git commit command requires a commit message that describes the snapshot/changes that you made in that commit
