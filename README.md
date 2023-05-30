@@ -2,7 +2,6 @@
 
 [View the live project here](https://mattuw4.github.io/Gather-Round-Board-Game-Cafe/)
 
-
 Gather Round is a fictional website for a fictional board game cafe business based in Leeds, UK. The primary focus of the business to cater for board game enthusiasts and those interested in the hobby in a social environment. The target user for the business are both existing gamers and those interested in trying out a new experience, as well as people wanting to socialise. The primary Unique Selling Point (USP) of the business is that is provides a physical space for people to come together and effectively hire games from the library in the cafe, whilst providing ancillary offers of food and drinks to accompany. The site has been developed to raise awareness of the cafe game, food and drinks offers, whilst providing information on opening times, location, a calendar of events and overview of games offered. There are also means for potential patrons to book a session - a prime focus of the user experience (UX) - or to access more information by signing up to a mailing list that will grow the customer base remotely.
 
 ![Mockup](documentation/respo-mockup.png)
@@ -10,16 +9,22 @@ Gather Round is a fictional website for a fictional board game cafe business bas
 ## User Experience(UX)
 
 - ### User Stories
+  
 - #### First Time Visitor
+  
     1. I want to easily understand the website purpose and access information on board gaming and the board game cafe.
     2. I want to access information on opening hours, location and find out how to visit.
     3. I want to be able to navigate through a game library and events calendar to understand what is on offer.
     4. I want to browse a food and drinks menu.
+
 - #### Returning Visitor
+  
     1. I want achieve the above goals more quickly, fluidly and intuitively.
     2. I want to be able to make a booking, sign up to the mailing list or get in contact with the cafe.
+
 - #### Frequent Visitor
-    1. I want to be able to go straight the booking page and book a session. 
+  
+    1. I want to be able to go straight the booking page and book a session.
 
 ## Existing site features
 
@@ -59,7 +64,7 @@ This page provides an overview of some games that the cafe offers. The images ar
 
 - F10, F11, F12 Booking and menu hero image, booking form and menu table
 
-The hero image here has been chosen to evoke the social experience that would excite the user and encourage them to book  making an emotional connection. The form has been developed and is a destination from across the site by internal links. The form requires the user to enter information in all sections but also provides the option to reset at any point. This form is responsively designed to scale down to smaller devices. To accompany the booking form and increase likelihood of a user committing to a longer period of time at the cafe the simple food and drinks menu is below which is also responsively designed. Whilst this information is important it is prioritised lowest in terms of feature prominence because it is anticipated that users would want higher ranking information in the first instance i.e. opening times, location, booking options, games and events. 
+The hero image here has been chosen to evoke the social experience that would excite the user and encourage them to book  making an emotional connection. The form has been developed and is a destination from across the site by internal links. The form requires the user to enter information in all sections but also provides the option to reset at any point. This form is responsively designed to scale down to smaller devices. To accompany the booking form and increase likelihood of a user committing to a longer period of time at the cafe the simple food and drinks menu is below which is also responsively designed. Whilst this information is important it is prioritised lowest in terms of feature prominence because it is anticipated that users would want higher ranking information in the first instance i.e. opening times, location, booking options, games and events.
 
 ![Hero booking image](documentation/f10-hero-booking.png)
 
@@ -93,6 +98,7 @@ Consistent colours of white, black and purple were employed to make the site mor
 ![Wireframe landing](documentation/landing-wireframe.png)
 
 ### Games & Events
+
 ![Wireframe games](documentation/games-wireframe.png)
 
 ### Booking & Menu
@@ -102,10 +108,12 @@ Consistent colours of white, black and purple were employed to make the site mor
 ## Technology employed
 
 ### Development languages
+
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/HTML5)
 
-### Libraries, frameworks and programs 
+### Libraries, frameworks and programs
+
 - [Pexels](https://www.pexels.com/): this was used to access images for the site
 - [Font Awesome](https://fontawesome.com/): this was used to access icons for design purposes.
 - [Google Fonts](https://fonts.google.com/): Nunito font was downloaded and imported to be applied across the project for styling purposes.
@@ -113,8 +121,6 @@ Consistent colours of white, black and purple were employed to make the site mor
 - [GItHub](https://github.com/): this was used as a repository for projects that were committed from Code Anywhere.
 - [Tiny PNG](https://tinypng.com/): this was used to compress files for inclusion.
 
-
-## Testing
 - The site has been tested in [HTML Validator](https://validator.w3.org/). The HTML is valid at the time of writing as demonstrated below:
 
 ![HTML Validator](documentation/validation-html.png)
@@ -128,24 +134,31 @@ There were a number of errors relating to syntax issues and incorrect use of ari
 There were a number of errors relating to syntax issues that were fixed by the developer.
 
 ## Lighthouse accessibility test
+
 [Google's web.dev page quality test](https://web.dev/measure/) was used to measure the website against performance, accessibility, SEO and best practice.
 
 ### Performance
+
 ![lighthouse-performance](documentation/lighthouse-performance.png)
 
 ### Accessibility
+
 ![lighthouse-accessibility](documentation/lighthouse-accessibility.png)
+
 - Before the accessibility test the site was rated around 84 as there were some syntax issues and aria-labelby had been used incorrectly but by addressing these elements a 100% rating has been achieved.
 
 ### SEO
+
 ![lighthouse-performance](documentation/lighthouse-seo.png)
 
 ### Best Practice
-![lighthouse-bestpractice](documentation/lighthouse-bestpractice.png
+
+![lighthouse-bestpractice](documentation/lighthouse-bestpractice.png)
 
 ## Browser compatibility and responsivity
 
 The site has been tested on the following browsers with no issues identified at the time of testing:
+
 - Firefox 113.0.2 (64 bit)
 - Edge 113.0. 1774.35 (64 bit)
 - Chrome 113.0. 5672.64 (64 bit)
@@ -157,7 +170,8 @@ The site has been developed to be responsive at:
 - medium to smaller screen sizes from 950px wide and down;
 - and smaller screen sizes from 375px wide and down.
 
-## Testing and results
+## Scenario testing and results
+
 The following details the tests that were set out and completed for the site:
 
 ![CSS Validator](documentation/website-test.png)
@@ -175,61 +189,62 @@ UPDATE THIS POST DISCUSSION
 ## Deployment
 
 ### Deployment of site
-- In the GitHub repository, select the Settings tab
-- Select the Pages tab from the left hand menu
-- Under the branch section select 'main' branch. This will display a message to indicate deployment if completed successfully
-- Any subsequent changes to the project will take effect on the live page
-- A live link to the functional site can be found here [View the live project here](https://mattuw4.github.io/Gather-Round-Board-Game-Cafe/)
+
+- In the GitHub repository, select the Settings tab;
+- Select the Pages tab from the left hand menu;
+- Under the branch section select 'main' branch. This will display a message to indicate deployment if completed successfully;
+- Any subsequent changes to the project will take effect on the live page;
+- A live link to the functional site can be found here [View the live project here](https://mattuw4.github.io/Gather-Round-Board-Game-Cafe/).
 
 ### Cloning the repository
 
-- Navigate to the repository <https://github.com/MattuW4/Gather-Round-Board-Game-Cafe> on GitHub
-- Above the list of files, click Code
-- Copy the URL for the repository by selecting HTTPs
-- Open Git Bash
-- Change the current working directory to the location where you want the cloned directory
-- Type 'git clone', and then paste the URL you copied earlier
-- Press Enter to create your local clone
+- Navigate to the repository <https://github.com/MattuW4/Gather-Round-Board-Game-Cafe> on GitHub;
+- Above the list of files, click Code;
+- Copy the URL for the repository by selecting HTTPs;
+- Open Git Bash;
+- Change the current working directory to the location where you want the cloned directory;
+- Type 'git clone', and then paste the URL you copied earlier;
+- Press Enter to create your local clone.
 
-### Any change made to the site should be committed and pushed to GitHub like so within your IDE terminal:
-- Using the 'Git Add' command move files to the staging area
-- Using the 'Git Commit' command take a snapshot of the current state of your repository
-- The git commit command requires a commit message that describes the snapshot/changes that you made in that commit
-- Use the 'Git Push' command to push the files to the GitHub repository
-- As the site is live changes will take effect there
+### Any change made to the site should be committed and pushed to GitHub like so within your IDE terminal
+
+- Using the 'Git Add' command move files to the staging area;
+- Using the 'Git Commit' command take a snapshot of the current state of your repository;
+- The git commit command requires a commit message that describes the snapshot/changes that you made in that commit;
+- Use the 'Git Push' command to push the files to the GitHub repository;
+- As the site is live changes will take effect there.
 
 ## Credits
 
 ### Content
-- All content was written by the developer
+
+- All content was written by the developer.
 
 ### Code
 
-- Code on how to use flex box and implement for ordering purposes it was based on instructions from <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
-- Code to style and make the events calendar responsive was informed by the Code Institute Love Running Project
-- Code on how to style forms with CSS was based on https://www.w3schools.com/css/css_form.asp
-- Code on how to style tables with CSS was based on <https://www.w3schools.com/css/css_table.asp>
-- Code on how to style buttons with CSS was based on <https://www.w3schools.com/tags/att_input_type_button.asp>
-- Code on how to develop a hero image background with CSS was based on <https://www.w3schools.com/howto/howto_css_hero_image.asp>
-- Code on how to style the hover function and pointer with CSS based on <https://www.w3schools.com/cssref/sel_hover.php>
-- Code on how to style the zoom feature of the landing page hero image when hovering with CSS based on <https://codepen.io/jnnfrcyl/pen/rpQNOB>
+- Code on how to use flex box and implement for ordering purposes it was based on instructions from <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>.
+- Code to style and make the events calendar responsive was informed by the Code Institute Love Running Project.
+- Code on how to style forms with CSS was based on <https://www.w3schools.com/css/css_form.asp>.
+- Code on how to style tables with CSS was based on <https://www.w3schools.com/css/css_table.asp>.
+- Code on how to style buttons with CSS was based on <https://www.w3schools.com/tags/att_input_type_button.asp>.
+- Code on how to develop a hero image background with CSS was based on <https://www.w3schools.com/howto/howto_css_hero_image.asp>.
+- Code on how to style the hover function and pointer with CSS based on <https://www.w3schools.com/cssref/sel_hover.php>.
+- Code on how to style the zoom feature of the landing page hero image when hovering with CSS based on <https://codepen.io/jnnfrcyl/pen/rpQNOB>.
 
 ### Media
 
 - The icons used in the nav bar and footer were taken from [Font Awesome](https://fontawesome.com/)
 - The font used across the site was taken from [Google Fonts](https://fonts.google.com/)
 - All images from accessed from [Pexels](https://www.pexels.com/):
-  - [The Home Page Hero Image](https://www.pexels.com/photo/close-up-of-people-playing-board-game-4967339/) was by Egidijus Bielskis
-  - [The Booking Page Hero Image](https://www.pexels.com/photo/group-of-people-sitting-at-the-table-8111298/) was by Pavel Danilyuk
-  - [The Domino Image](https://www.pexels.com/photo/addiction-deck-dominoes-gambling-278912/) was by Pixabay
-  - [The Scrabble Image](https://www.pexels.com/photo/addiction-deck-dominoes-gambling-278912/) was by Pixabay
-  - [The Chess image](https://www.pexels.com/photo/chess-pieces-on-table-1152662/) was by Ylanite Koppens
-  - [The Monopoly image](https://www.pexels.com/photo/chess-pieces-on-table-1152662/) was by Ylanite Koppens
-  - [The Uno image](https://www.pexels.com/photo/teapot-and-teacup-beside-uno-cards-on-round-woven-placemat-15111350/) was by Arturo David A
-  - [The Cards Against Humanity image](https://www.pexels.com/photo/cards-against-humanity-188470/) was by Pablo Punk
+  - [The Home Page Hero Image](https://www.pexels.com/photo/close-up-of-people-playing-board-game-4967339/) was by Egidijus Bielskis.
+  - [The Booking Page Hero Image](https://www.pexels.com/photo/group-of-people-sitting-at-the-table-8111298/) was by Pavel Danilyuk.
+  - [The Domino Image](https://www.pexels.com/photo/addiction-deck-dominoes-gambling-278912/) was by Pixabay.
+  - [The Scrabble Image](https://www.pexels.com/photo/addiction-deck-dominoes-gambling-278912/) was by Pixabay.
+  - [The Chess image](https://www.pexels.com/photo/chess-pieces-on-table-1152662/) was by Ylanite Koppens.
+  - [The Monopoly image](https://www.pexels.com/photo/chess-pieces-on-table-1152662/) was by Ylanite Koppens.
+  - [The Uno image](https://www.pexels.com/photo/teapot-and-teacup-beside-uno-cards-on-round-woven-placemat-15111350/) was by Arturo David A.
+  - [The Cards Against Humanity image](https://www.pexels.com/photo/cards-against-humanity-188470/) was by Pablo Punk.
 
 ## Acknowledgements
 
-Thanks to my mentor Brian Macharia who provided insightful feedback, reassurance and input with the project development and implementation. 
-
-
+Thanks to my mentor Brian Macharia who provided insightful feedback, reassurance and input with the project development and implementation.
