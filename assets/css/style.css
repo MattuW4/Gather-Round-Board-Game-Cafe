@@ -321,7 +321,7 @@ div>p {
 section form {
     padding: 20px;
     border: solid 2px rgb(139, 0, 139, 0.6);
-    margin: 14px;
+    margin: 0px;
 }
 
 form h2 {
