@@ -281,6 +281,10 @@ img {
     margin: auto;
 }
 
+div>p {
+    margin: 0px;
+}
+
 #library-images {
     column-count: 3;
     text-align: center;
