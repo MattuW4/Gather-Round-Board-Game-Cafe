@@ -138,7 +138,7 @@ The site has been developed to be responsive at:
 
 - larger to medium screen sizes from 1200px wide and down;
 - medium to smaller screen sizes from 950px wide and down;
-- and smaller screen sizes from 320px wide and down.
+- and smaller screen sizes from 375px wide and down.
 
 ## Testing and results
 The following details the tests that were set out and completed for the site:
