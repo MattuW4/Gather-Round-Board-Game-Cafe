@@ -36,7 +36,7 @@ The navigation bar is consistent across all pages, being easy to recognise, find
 
 - F02, F03, F04, F05, F06 Landing page and hero image
 
-There is a hero image on the landing page that welcomes the user and clearly states the cafe name. The image has been chosen to draw the user in to a shared experience that they might be seeking and identify with. There is easily accessible information on the cafe, the opening times (in a table) and location with an embedded google maps link. A button internally links the user directly to the booking page as the site intends to provide information to make an informed decision, that decision being for a user to commit their custom and book.
+There is a hero image on the landing page that welcomes the user and clearly states the cafe name. The image has been chosen to draw the user in to a shared experience that they might be seeking and identify with. It is styled with CSS to slowly zoom in and out as a feature that would engage the user and provide depth to the page. There is easily accessible information on the cafe, the opening times (in a table) and location with an embedded google maps link. A button internally links the user directly to the booking page as the site intends to provide information to make an informed decision, that decision being for a user to commit their custom and book.
 
 ![Hero Landing](documentation/f02-hero-home.png)
 
@@ -48,15 +48,15 @@ There is a hero image on the landing page that welcomes the user and clearly sta
 
 ![Map](documentation/f06-location-map.png)
 
-- F07 Landing page and hero image
+- F07 Footer, Social Media Links and Newsletter Subscribe option
 
-The footer is consistent across all pages, being easy to recognise, find and use. It has the address and contact details to the left. Centrally there are the main social media platforms that will link the user to Gather Round's social media platforms, these all opening in a new window. To the right there is an option for the user to enter their email to join the mailing list for both further information but to also curate an UX of being part of a community and connecting with other like-minded people. The form prompts the user to enter an email in order to submit the form.
+The footer is consistent across all pages, being easy to recognise, find and use. It has the address and contact details to the left. Centrally there are the main social media platforms that will link the user to Gather Round's social media platforms, these all opening in a new window. To the right there is an option for the user to enter their email to join the mailing list for both further information but to also curate an UX of being part of a community and connecting with other like-minded people. The form prompts the user to enter an email in order to submit the form. The footer is responsive to smaller device sizes using grid functions.
 
 ![Social signup](documentation/f07-footer.png)
 
 - F08, F09 Games and Events page
 
-This page provides an overview of some games that the cafe offers. The images are styled to draw the user in whilst providing easily accessible information for them to make a decision. These image columns are responsively styled on smaller devices. There is a booking button again that encourages the user to book based on the games that they have seen and make this easy to achieve. The events section is also responsively designed to scale to fit smaller devices. The intention of this section is to again inform the user about what is going on, empowering them to make a decision about joining the social element of the cafe whilst also informing about particular game formats that they may be interested or engaged in.
+This page provides an overview of some games that the cafe offers. The images are styled to draw the user in whilst providing easily accessible information for them to make a decision. These image columns are responsively styled on smaller devices. There is a booking button again that encourages the user to book based on the games that they have seen and make this easy to achieve. The events section is also responsively designed to scale to fit smaller devices. The intention of this section is to again inform the user about what is going on, empowering them to make a decision about joining the social element of the cafe whilst also informing about particular game formats that they may be interested or engaged in. The event calendar has been styled to engage the user and provide a visually pleasing experience. The page is responsive to smaller device sizes using columns and grid css functions.
 
 ![Games](documentation/f08-library.png)
 
@@ -64,7 +64,7 @@ This page provides an overview of some games that the cafe offers. The images ar
 
 - F10, F11, F12 Booking and menu hero image, booking form and menu table
 
-The hero image here has been chosen to evoke the social experience that would excite the user and encourage them to book  making an emotional connection. The form has been developed and is a destination from across the site by internal links. The form requires the user to enter information in all sections but also provides the option to reset at any point. This form is responsively designed to scale down to smaller devices. To accompany the booking form and increase likelihood of a user committing to a longer period of time at the cafe the simple food and drinks menu is below which is also responsively designed. Whilst this information is important it is prioritised lowest in terms of feature prominence because it is anticipated that users would want higher ranking information in the first instance i.e. opening times, location, booking options, games and events.
+The hero image here has been chosen to evoke the social experience that would excite the user and encourage them to book  making an emotional connection. The form has been developed and is a destination from across the site by internal links. The form requires the user to enter information in all sections but also provides the option to reset at any point. This form is responsively designed to scale down to smaller devices. To accompany the booking form and increase likelihood of a user committing to a longer period of time at the cafe the simple food and drinks menu is below which is also responsively designed. Whilst this information is important it is prioritised lowest in terms of feature prominence because it is anticipated that users would want higher ranking information in the first instance i.e. opening times, location, booking options, games and events. The form is fully styled to be responsive to smaller device screen sizes, as is the table.
 
 ![Hero booking image](documentation/f10-hero-booking.png)
 
@@ -80,6 +80,7 @@ The site has been designed to work through the anticipated ranking of need and d
 
 - It could be explored to develop an online e-commerce/shop element of the site to develop the offer and build the prominence of the cafe virtually.
 - Sections for more UX reflection could easily be included e.g. testimonials, pictures, suggestions box. This would develop the community sense and emotional connection to the brand and likelihood of a user committing and remaining so.
+- A scrolling nav bar could be implemented to allow for easier navigation when further exploring the site or, a 'return to the top' function.
 
 ## Design
 
@@ -89,7 +90,7 @@ As stated, the images and iconography are styled and employed to connect with us
 
 ### Colours and scheme
 
-Consistent colours of white, black and purple were employed to make the site more accessible visually and aid with elements being prominent. These colours would also relate to the branding of the cafe itself. The darker shades of black/purple were selected to create a complimentary, warm ambience.
+Consistent colours of white, black and purple were employed to make the site more accessible visually and aid with elements being prominent. These colours would also relate to the branding of the cafe itself. The darker shades of black/purple were selected to create a complimentary, warm ambience. With the contrasting colour and imagery usage it has not been necessary to use other structural elements to establish different sections but this is something that could be explored further in future development.
 
 ## Wireframe sketches
 
@@ -140,6 +141,12 @@ There were a number of errors relating to syntax issues that were fixed by the d
 ### Performance
 
 ![lighthouse-performance](documentation/lighthouse-performance.png)
+
+As the performance score is lower than desired the following steps are some of the approaches that could be considered to address this in the future:
+
+- reduce weight of pages;
+- increase speed of servers;
+- or better render blocking resources.
 
 ### Accessibility
 
