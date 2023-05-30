@@ -234,14 +234,12 @@ The site has been developed to be responsive on:
 
 ### Code
 
-- Code on how to use flex box and implement for ordering purposes it was based on instructions from <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>.
-- Code to style and make the events calendar responsive was informed by the Code Institute Love Running Project.
-- Code on how to style forms with CSS was based on <https://www.w3schools.com/css/css_form.asp>.
-- Code on how to style tables with CSS was based on <https://www.w3schools.com/css/css_table.asp>.
-- Code on how to style buttons with CSS was based on <https://www.w3schools.com/tags/att_input_type_button.asp>.
-- Code on how to develop a hero image background with CSS was based on <https://www.w3schools.com/howto/howto_css_hero_image.asp>.
-- Code on how to style the hover function and pointer with CSS based on <https://www.w3schools.com/cssref/sel_hover.php>.
-- Code on how to style the zoom feature of the landing page hero image when hovering with CSS based on <https://codepen.io/jnnfrcyl/pen/rpQNOB>.
+- Code on how to use flex box and implement for ordering purposes was informed by resources from [a Guide to Flex box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+- Code to style and make the events calendar responsive was informed by the Code Institute [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/c428cfb8fd5e4852bbba1f94e914b3b4/).
+- Code on how to develop a hero image background with CSS was informed by resources from [W3SCHOOLS](https://www.w3schools.com/howto/howto_css_hero_image.asp).
+- Code on how to style the hover function and pointer with CSS was informed by resources from [W3SCHOOLS](https://www.w3schools.com/cssref/sel_hover.php).
+- Code on how to style the zoom feature of the landing page hero image when hovering with CSS was informed by resources from [CODEPEN](https://codepen.io/jnnfrcyl/pen/rpQNOB).
+- Code on how to apply a gradient color style using css was informed by resources from [W3SCHOOLS](https://www.w3schools.com/css/css3_gradients.asp).
 
 ### Media
 
