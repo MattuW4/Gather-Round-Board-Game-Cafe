@@ -127,7 +127,24 @@ There were a number of errors relating to syntax issues and incorrect use of ari
 
 There were a number of errors relating to syntax issues that were fixed by the developer.
 
+## Lighthouse accesibility test
+[Google's web.dev page quality test](https://web.dev/measure/) was used to measure the website against performance, accessibility, SEO and best practice.
+
+### Performanace
+![lighthouse-performance](documentation/lighthouse-performance.png)
+
+### Accessibility
+![lighthouse-accessibility](documentation/lighthouse-accessibility.png)
+- Before the accessibility test the site was rated around 84 as there were some syntax issues and aria-labelby had been used incorrectly but by addressing these elements a 100% rating has been achieved.
+
+### Performanace
+![lighthouse-performance](documentation/lighthouse-seo.png)
+
+### Best Practice
+![lighthouse-bestpractice](documentation/lighthouse-bestpractice.png
+
 ## Browser compatibility and responsivity
+
 The site has been tested on the following browsers with no issues identified at the time of testing:
 - Firefox 113.0.2 (64 bit)
 - Edge 113.0. 1774.35 (64 bit)
