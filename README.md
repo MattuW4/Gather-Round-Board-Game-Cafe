@@ -70,7 +70,7 @@ The hero image here has been chosen to evoke the social experience that would ex
 
 ![Hero booking image](documentation/f10-hero-booking.png)
 
-![Booking form](documentation/f11-form-booking.png)
+![Booking form](documentation/f11-booking-form.png)
 
 ![Menu](documentation/f12-table-food-drink.png)
 
