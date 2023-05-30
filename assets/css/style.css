@@ -307,7 +307,7 @@ img {
 section form {
     padding: 20px;
     border: solid 2px rgb(139, 0, 139, 0.6);
-    margin: 33px;
+    margin: 14px;
 }
 
 form h2 {
@@ -356,7 +356,7 @@ textarea {
     height: 127px;
     float: left;
     text-align: center;
-    border: 2px solid #1a1a1a;
+    border: 4px solid #1a1a1a;
     border-radius: 3px;
     display: grid;
     padding-top: 23px;
