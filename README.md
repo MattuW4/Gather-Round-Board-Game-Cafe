@@ -1,4 +1,4 @@
-# Gather Round Board Game Website
+# Gather Round Board Game Cafe Website
 
 [View the live project here](https://mattuw4.github.io/Gather-Round-Board-Game-Cafe/)
 
