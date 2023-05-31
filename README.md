@@ -191,17 +191,11 @@ The following details the tests that were set out and completed for the site:
 
 ![CSS Validator](documentation/website-test.png)
 
-The site has been developed to be responsive on:
-
-- larger to medium screen sizes from 1200px wide and down;
-- medium to smaller screen sizes from 950px wide and down;
-- and smaller screen sizes from 320px wide and down.
-  
-## Known bugs
+# Known bugs
 
 - Within Code Anywhere there is a warning notification of "Import statements do not load in parallel". This has been explored with support and is understood to relate to potential perforaance issues if there were a style sheet opened or linked to the style sheet within this project. As this is not a feature of this project, the warning is not thought to be significant at this time.
 - It was noted that the game images did not align within the columns after testing and adapting the CSS. This was due to a style rule being applied globally to paragraphs. A solution to apply a local rule to the paragraph of the div was implemented without using fixes like flex or display grid as the stated approach achieved the desired outcome.
-- There is some flickering and slow loading of the images used on the game library page which is thought to be due to performance issues that could be countered by hosting the images differently. 
+- There is some flickering and slow loading of the images used on the game library page which is thought to be due to performance issues that could be countered by hosting the images differently.
 
 ## Deployment
 
@@ -235,7 +229,7 @@ The site has been developed to be responsive on:
 - For many forking scenarios, such as contributing to open-source projects, you only need to copy the default branch. If you do not select this option, all branches will be copied into the new fork;
 - Click Create fork.
 
-### Any change made to the site should be committed and pushed to GitHub within your IDE terminal:
+### Any change made to the site should be committed and pushed to GitHub within your IDE terminal
 
 - Using the 'Git Add' command move files to the staging area;
 - Using the 'Git Commit' command take a snapshot of the current state of your repository;
