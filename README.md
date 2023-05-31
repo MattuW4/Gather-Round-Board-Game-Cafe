@@ -4,7 +4,7 @@
 
 ## Project overview
 
-Gather Round is a website for a fictional board game cafe business based in Leeds, UK. The primary focus of the business to cater for board game enthusiasts and those interested in the hobby in a social environment. The target users for the business are both existing gamers and those interested in trying out a new experience, as well as people wanting to socialise. The primary Unique Selling Point (USP) of the business is that is provides a physical space for people to come together and effectively hire games from the library in the cafe, whilst providing ancillary offers of food and drinks to accompany. The site has been developed to raise awareness of the cafe game, food and drinks offers, whilst providing information on opening times, location, a calendar of events and overview of games offered. There are also means for potential patrons to book a session - a prime focus of the user experience (UX) - or to access more information by signing up to a mailing list that will grow the customer base remotely. The site is designed to be simple, yet engaging for UX in order that visitors can access relevant information in order to be able to make a decision. The content is rich but foxused and contextualised in a stylised world that the user would be able to understand and identify with.
+This is a wesbite designed for a fictional board game cafe business called 'Gather Round', based in Leeds, UK. The primary focus of the business is to cater for board game enthusiasts and those interested in the hobby in a social environment. The website is intended and designed to engage with potential and existing customers. The target users for the business are both existing gamers and those interested in trying out a new experience, as well as people wanting to socialise. The primary Unique Selling Point (USP) of the business is that is provides a physical space for people to come together and effectively hire games from the library in the cafe, whilst providing ancillary offers of food and drinks to accompany. The site has been developed to raise awareness of the cafe game, food and drinks offers, whilst providing information on opening times, location, a calendar of events and overview of games offered. There are also means for potential patrons to book a session - a prime focus of the user experience (UX) - or to access more information by signing up to a mailing list that will grow the customer base remotely. The site is designed to be simple, yet engaging for UX in order that visitors can access relevant information in order to be able to make a decision. The content is rich but focused and contextualised in a stylised world that the user would be able to understand and identify with.
 
 ![Mockup](documentation/responsive-mockup.png)
 
@@ -21,7 +21,7 @@ Gather Round is a website for a fictional board game cafe business based in Leed
 
 - #### Returning Visitor
   
-    1. I want achieve the above goals more quickly, fluidly and intuitively.
+    1. I want to achieve the above goals more quickly, fluidly and intuitively.
     2. I want to be able to make a booking, sign up to the mailing list or get in contact with the cafe.
 
 - #### Frequent Visitor
@@ -32,13 +32,13 @@ Gather Round is a website for a fictional board game cafe business based in Leed
 
 - F01 Navigation bar
 
-The navigation bar is consistent across all pages, being easy to recognise, find and use. It has a logo to the left that takes the user to the homepage and a simple menu, game library and booking link to the right. The latter have been developed to be responsive for smaller devices with the home page tab disappearing to accommodate a balanced display.
+The navigation bar is consistent across all pages, being easy to recognise, find and use. It has a logo to the left that takes the user to the homepage and a simple menu, game library and booking link to the right. The latter have been developed to be responsive for smaller devices with the home page tab disappearing to accommodate a balanced display. The tabs have a hover feature to provide feedback to the user when interacted with and the buttons are framed at smaller screen sizes to indicate their function.
 
 ![Navbar](documentation/f01-navigation-bar.png)
 
 - F02, F03, F04, F05, F06 Landing page and hero image
 
-There is a hero image on the landing page that welcomes the user and clearly states the cafe name. The image has been chosen to draw the user in to a shared experience that they might be seeking and identify with. It is styled with CSS to slowly zoom in and out as a feature that would engage the user and provide depth to the page. There is easily accessible information on the cafe, the opening times (in a table) and location with an embedded google maps link. A button internally links the user directly to the booking page as the site intends to provide information to make an informed decision, that decision being for a user to commit their custom and book.
+There is a hero image on the landing page that welcomes the user and clearly states the cafe name. The image has been chosen to draw the user in to a shared experience that they might be seeking and identify with. It is styled with CSS to slowly zoom in and out as a feature that would engage the user and provide depth to the page. There is easily accessible information on the cafe, the opening times (in a table) and location with an embedded google maps link. A button internally links the user directly to the booking page as the site intends to provide information to make an informed decision, that decision being for a user to commit their custom and book. Within the location information there is an external link that opens in a new window for the website of the complex that the cafe is located in for further information and brand linking.
 
 ![Hero Landing](documentation/f02-hero-home.png)
 
@@ -52,7 +52,7 @@ There is a hero image on the landing page that welcomes the user and clearly sta
 
 - F07 Footer, Social Media Links and Newsletter Subscribe option
 
-The footer is consistent across all pages, being easy to recognise, find and use. It has the address and contact details to the left. Centrally there are the main social media platforms that will link the user to Gather Round's social media platforms, these all opening in a new window. To the right there is an option for the user to enter their email to join the mailing list for both further information but to also curate an UX of being part of a community and connecting with other like-minded people. The form prompts the user to enter an email in order to submit the form. The footer is responsive to smaller device sizes using grid functions.
+The footer is consistent across all pages, being easy to recognise, find and use. It has the address and contact details to the left. Centrally there are the main social media platforms that will link the user to Gather Round's social media platforms, these all opening in a new window. To the right there is an option for the user to enter their email to join the mailing list for both further information but to also curate an UX of being part of a community and connecting with other like-minded people. The form prompts the user to enter an email in order to submit the form. Once completed the form correctly submits the data to the Code Institute dump that produces a read out for the purposes of this site.The footer is responsive to smaller device sizes using grid functions.
 
 ![Social signup](documentation/f07-footer.png)
 
@@ -66,7 +66,7 @@ This page provides an overview of some games that the cafe offers. The images ar
 
 - F10, F11, F12 Booking and menu hero image, booking form and menu table
 
-The hero image here has been chosen to evoke the social experience that would excite the user and encourage them to book  making an emotional connection. The form has been developed and is a destination from across the site by internal links. The form requires the user to enter information in all sections but also provides the option to reset at any point. This form is responsively designed to scale down to smaller devices. To accompany the booking form and increase likelihood of a user committing to a longer period of time at the cafe the simple food and drinks menu is below which is also responsively designed. Whilst this information is important it is prioritised lowest in terms of feature prominence because it is anticipated that users would want higher ranking information in the first instance i.e. opening times, location, booking options, games and events. The form is fully styled to be responsive to smaller device screen sizes, as is the table.
+The hero image here has been chosen to evoke the social experience that would excite the user and encourage them to book  making an emotional connection. The form has been developed and is a destination from across the site by internal links. The form requires the user to enter information in all sections but also provides the option to reset at any point. This form is responsively designed to scale down to smaller devices. Once completed the form correctly submits the data to the Code Institute dump that produces a read out for the purposes of this site. To accompany the booking form and increase likelihood of a user committing to a longer period of time at the cafe the simple food and drinks menu is below which is also responsively designed. Whilst this information in the food & drinks menu is important for future users, it is prioritised lowest in terms of feature prominence because it is anticipated that users would want higher ranking information in the first instance i.e. opening times, location, booking options, games and events. The form is fully styled to be responsive to smaller device screen sizes, as is the table.
 
 ![Hero booking image](documentation/f10-hero-booking.png)
 
@@ -74,14 +74,20 @@ The hero image here has been chosen to evoke the social experience that would ex
 
 ![Menu](documentation/f12-table-food-drink.png)
 
+- F13 Form read outs
+
+Shown below are the two read outs that are displayed when the user either fills the email subscription form or the booking form. The inputted information can be seen within the read outs.
+
+![Form read outs](documentation/f13-read-outs.png)
+
 ## User story interaction with features
 
-The site has been designed to work through the anticipated ranking of need and desires of users from first time visitors to regular users, recognising needs and wants differ. The design and priority of features is intended to provide the information that users would require to make a connection to the brand and experience of the cafe e.g. imagery that evokes emotion is used prominently to draw in new users and for existing to continue to identify as a collective but this is not laid out to obscure access to higher ranking information around location, opening times etc. or the ability to book. The flow through the site is intended to bring new and developing users through to the booking page whilst still providing intuitive access to recurrent user needs around events or the food or drink menu. The buttons are styled with hover features to draw attention of the user and provide feedback during use.
+The site has been designed to work through the anticipated ranking of need and desires of users from first time visitors to regular users, recognising needs and wants differ. The design and priority of features is intended to provide the information that users would require to make a connection to the brand and experience of the cafe e.g. imagery that evokes emotion is used prominently to draw in new users and for existing customers to continue to identify as a collective with the brand but this is not laid out to obscure access to higher ranking information around location, opening times etc. or the ability to book. The flow through the site is intended to bring new and emergent users through to the booking page whilst still providing intuitive access to recurrent user needs around events or the food or drink menu. The buttons are styled with hover features to draw attention of the user and provide feedback during use.
 
 ## Features for future consideration and development
 
-- It could be explored to develop an online e-commerce/shop element of the site to develop the offer and build the prominence of the cafe virtually.
-- Sections for more UX reflection could easily be included e.g. testimonials, pictures, suggestions box. This would develop the community sense and emotional connection to the brand and likelihood of a user committing and remaining so.
+- Development of an online e-commerce/shop function for the site could be explored to expand the offer and build the prominence of the cafe virtually or int he market.
+- Sections for more UX reflection could  be included e.g. testimonials, pictures, suggestions box. This would develop the community sense and emotional connection to the brand and likelihood of a user committing and remaining so.
 - A scrolling nav bar could be implemented to allow for easier navigation when further exploring the site or, a 'return to the top' function.
 
 ## Design
@@ -128,13 +134,13 @@ Consistent colours of white, black and purple were employed to make the site mor
 
 ![HTML Validator](documentation/validation-html.png)
 
-There were a number of errors relating to syntax issues and incorrect use of aria-labelby identified which were fixed by the developer.
+There were a number of errors relating to syntax issues and incorrect use of aria-labelby identified which were fixed by the developer before deployment.
 
 - The site has been tested in [CSS Validator](https://jigsaw.w3.org/css-validator/). The CSS is valid at the time of writing as demonstrated below:
 
 ![CSS Validator](documentation/validation-css.png)
 
-There were a number of errors relating to syntax issues that were fixed by the developer.
+There were a number of errors relating to syntax issues that were fixed by the developer before deployment.
 
 ## Lighthouse accessibility test
 
@@ -195,6 +201,7 @@ The site has been developed to be responsive on:
 
 - Within Code Anywhere there is a warning notification of "Import statements do not load in parallel". This has been explored with support and is understood to relate to potential perforaance issues if there were a style sheet opened or linked to the style sheet within this project. As this is not a feature of this project, the warning is not thought to be significant at this time.
 - It was noted that the game images did not align within the columns after testing and adapting the CSS. This was due to a style rule being applied globally to paragraphs. A solution to apply a local rule to the paragraph of the div was implemented without using fixes like flex or display grid as the stated approach achieved the desired outcome.
+- There is some flickering and slow loading of the images used on the game library page which is thought to be due to performance issues that could be countered by hosting the images differently. 
 
 ## Deployment
 
@@ -228,7 +235,7 @@ The site has been developed to be responsive on:
 - For many forking scenarios, such as contributing to open-source projects, you only need to copy the default branch. If you do not select this option, all branches will be copied into the new fork;
 - Click Create fork.
 
-### Any change made to the site should be committed and pushed to GitHub like so within your IDE terminal
+### Any change made to the site should be committed and pushed to GitHub within your IDE terminal:
 
 - Using the 'Git Add' command move files to the staging area;
 - Using the 'Git Commit' command take a snapshot of the current state of your repository;
@@ -240,7 +247,7 @@ The site has been developed to be responsive on:
 
 ### Content
 
-- All content was written by the developer.
+- All content was written by the developer for this site.
 
 ### Code
 
@@ -257,7 +264,7 @@ Within the CSS code there are comments to indicate where the below resources wer
 
 - The icons used in the nav bar and footer were taken from [Font Awesome](https://fontawesome.com/)
 - The font used across the site was taken from [Google Fonts](https://fonts.google.com/)
-- All images from accessed from [Pexels](https://www.pexels.com/):
+- All images were accessed from [Pexels](https://www.pexels.com/):
   - [The Home Page Hero Image](https://www.pexels.com/photo/close-up-of-people-playing-board-game-4967339/) was by Egidijus Bielskis.
   - [The Booking Page Hero Image](https://www.pexels.com/photo/group-of-people-sitting-at-the-table-8111298/) was by Pavel Danilyuk.
   - [The Domino Image](https://www.pexels.com/photo/addiction-deck-dominoes-gambling-278912/) was by Pixabay.
